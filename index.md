@@ -20,9 +20,9 @@ schemadotorg:
   # Author info
   author:
     - "@type": Organization
-      name: "The Gulbenkian Training Programme in Bioinformatics"
-      alternateName: "GTPB"
-      sameAs: "gtpb.igc.gulbenkian.pt/bicourses/index.html"
+      name: "tmuylder"
+      alternateName: "tmuylder"
+      sameAs: "google.com"
 
   # predominant type of learning resources
   "learningResourceType": ["presentation", "exercise", "scripts", "handout"]
@@ -39,7 +39,7 @@ schemadotorg:
   # License & Language & url
   license: https://creativecommons.org/licenses/by/4.0/
   inLanguage: "en-us"
-  url: "https://gtpb.github.io/Web_course_template/"
+  url: "https://tmuylder.github.io/web-course"
 ---
 
 ## Course Description
@@ -59,7 +59,7 @@ schemadotorg:
 
 ---
 
-The source for this course webpage is [in github](https://github.com/GTPB/Web_course_template).
+The source for this course webpage is [in github](https://github.com/tmuylder/web-course).
 
 <br/>
 
