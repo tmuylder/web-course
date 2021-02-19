@@ -43,7 +43,7 @@ schemadotorg:
 ---
 
 ## Course Description
-
+[link](pages/01-introduction.md)
 
 ## Target Audience
 
