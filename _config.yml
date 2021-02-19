@@ -8,14 +8,14 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : GTPB Courses
+title : Test Courses
 author :
-  name : GTPB
-  email : bicourses@igc.gulbenkian.pt
-  github : github.com/GTPB
+  name : VIB BITS (from GTPB)
+  email : tuurmuyldermans@gmail.com
+  github : github.com/tmuylder
 
 # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
-production_url : https://gtpb.github.io/Web_course_template
+production_url : https://tmuylder.github.io/test_web_course
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
